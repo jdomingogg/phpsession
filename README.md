@@ -1,4 +1,4 @@
-# phpsession
+# Cuestionario de Satisfacción (phpSession)
 Para poder usar este programa, necesitarás tener PHP y sus módulos correspondientes.
 
 Consiste en que un usuario con su email ingrese el nivel de satisfacción del servicio de una tienda, dándole a elegir entre alto, medio y bajo; luego mostrará el porcentaje de personas que ha tenido los distintos niveles de satisfacción.
